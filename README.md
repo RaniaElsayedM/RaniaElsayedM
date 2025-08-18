@@ -1,4 +1,4 @@
-# Hi there, I'm Rania Elsayed! 👋
+# Hi there, I'm Rania! 👋
 
 🎓 **Data Science Student**  
 Driven by curiosity and a passion for using data to make a positive impact.
