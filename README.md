@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Rania]</h1>
+<h1 align="center">Hi, I'm Rania</h1>
 <h3 align="center">Data Scientist & Machine Learning Engineer</h3>
 
 <br/>
@@ -31,7 +31,6 @@ I care deeply about reproducibility, clean code, and communicating results that 
 - Power BI · DAX · Power Query · Data Modeling
 
 <br/>
-
 ## Research Interests
 
 - Representation Learning & Transfer Learning
