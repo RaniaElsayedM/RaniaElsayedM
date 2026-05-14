@@ -7,7 +7,7 @@
 
 I'm a data scientist and ML engineer focused on building robust, production-ready machine learning systems. My work spans the full pipeline — from exploratory analysis and feature engineering to model development, evaluation, and deployment.
 
-I care deeply about reproducibility, clean code, and communicating results that drive real decisions.
+I care deeply about reproducibility, and communicating results that drive real decisions.
 
 - 🌱 Exploring: *["Mathematical Foundation of Machine Learning]*
 - 💬 Ask me about: machine learning, statistical modeling, and data storytelling
