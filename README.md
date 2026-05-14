@@ -43,7 +43,6 @@ I care deeply about reproducibility, and communicating results that drive real d
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rania-elsayed-60197a317/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)]([https://yourwebsite.com](https://rania-elsayed-portfolio-9j4bfy3.gamma.site/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](raniaelsayedmahmoud123@gmail.com)
 
 <br/>
