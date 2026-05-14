@@ -1,27 +1,53 @@
-# Hi there, I'm Rania! 👋
+<h1 align="center">Hi, I'm [Rania]</h1>
+<h3 align="center">Data Scientist & Machine Learning Engineer</h3>
 
-🎓 **Data Science Student**  
-Driven by curiosity and a passion for using data to make a positive impact.
+<br/>
 
-## 🔎 About Me
-I'm a dedicated data science student with hands-on experience in Python, SQL, Machine Learning, and Deep Learning. I love exploring new ways to turn raw data into actionable insights and creative solutions.
-- 🎯 Currently focusing on **AI applications**
-- 🌱 Always learning and improving my **machine learning** and **data analytics** skills
+## About Me
 
+I'm a data scientist and ML engineer focused on building robust, production-ready machine learning systems. My work spans the full pipeline — from exploratory analysis and feature engineering to model development, evaluation, and deployment.
 
-## 🛠️ Skills
-- **Languages:** Python, SQL, Java 
-- **Tech:** Machine Learning, Deep Learning, Data Analysis, Web Scraping, Data Visualization
+I care deeply about reproducibility, clean code, and communicating results that drive real decisions.
 
-## 🚀 Projects I'm Proud Of
-- **Crime Rate Prediction:** Leveraging machine learning to forecast crime trends and support safer communities.
-- **Student Performance Prediction:** Using data to uncover the factors that drive academic success.
-- **Flights Web Scraping:** Collecting and analyzing flight data for trend discovery and smarter travel decisions.
-- **Skin Cancer Detection & Classification:** Applying deep learning to aid in early diagnosis and treatment.
+- 🌱 Exploring: *["Mathematical Foundation of Machine Learning]*
+- 💬 Ask me about: machine learning, statistical modeling, and data storytelling
+- 📫 Reach me at: *[raniaelsayedmahmoud123@gmail.com]*
+- 🌍 Based in: *[Alexandria,Egypt]*
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rania-elsayed-60197a317/)
+<br/>
+
+## Technical Skills
+
+**Languages**
+- Python · SQL
+
+**Machine Learning & Deep Learning**
+- PyTorch · Scikit-learn · Convolutional Neural Networks (CNN) · Transfer Learning
+
+**Data & Analysis**
+- Pandas · NumPy · Matplotlib · Seaborn · Plotly
+
+**Business Intelligence & Visualization**
+- Power BI · DAX · Power Query · Data Modeling
+
+<br/>
+
+## Research Interests
+
+- Representation Learning & Transfer Learning
+- Time Series Forecasting
+- ML Systems Design & Production ML
+
+<br/>
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rania-elsayed-60197a317/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)]([https://yourwebsite.com](https://rania-elsayed-portfolio-9j4bfy3.gamma.site/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](raniaelsayedmahmoud123@gmail.com)
+
+<br/>
 
 ---
 
-*I'm always open to collaboration, learning opportunities, and connecting with fellow data enthusiasts. Let's build something amazing together!*
+<p align="center"><i>"In God we trust; all others must bring data." — W. Edwards Deming</i></p>
