@@ -9,7 +9,7 @@ I'm a data scientist and ML engineer focused on building robust, production-read
 
 I care deeply about reproducibility, and communicating results that drive real decisions.
 
-- 🌱 Exploring: *["Mathematical Foundation of Machine Learning]*
+- 🌱 Exploring: *["Mathematical Foundation of Machine Learning"]*
 - 💬 Ask me about: machine learning, statistical modeling, and data storytelling
 - 📫 Reach me at: *[raniaelsayedmahmoud123@gmail.com]*
 - 🌍 Based in: *[Alexandria,Egypt]*
